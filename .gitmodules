@@ -1,0 +1,3 @@
+[submodule "NoThickWall_rep"]
+	path = NoThickWall_rep
+	url = git@github.com:JadeFluteSwordsmanship/C1Games_NoThickWall.git
